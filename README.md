@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm pavan ap</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi , I'm PAVAN AP</h1>
+<h3 align="center">*"Innovating One Line of Code at a Time"</h3>
 
 <p align="left"> <a href="https://twitter.com/pavanzapz" target="blank"><img src="https://img.shields.io/twitter/follow/pavanzapz?logo=twitter&style=for-the-badge" alt="pavanzapz" /></a> </p>
 
